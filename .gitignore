@@ -1,2 +1,11 @@
+# data folder
 /xray
+
+# model weights
 /model
+/model_20e
+/model_50e
+
+
+# final models 
+lime-ray-cnn-lstm-20e.h5
